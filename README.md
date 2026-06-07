@@ -27,8 +27,17 @@
 ## 🔍 3️⃣ Exploración de modelos de comunicación
 
 ### 📡 Modelo Lineal
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:**  Docente (Emisor) → Plataforma virtual (Canal) → Estudiantes (Receptores)
+- Mensaje: contenido de la clase, instrucciones, explicaciones o presentaciones.
+- Ruido: problemas de conexión a Internet, fallas del audio, distracciones en el hogar, dificultades técnicas o falta de atención.
+- **Ejemplo en nuestro contexto:** Teniendo en cuenta el contexto de nuestras clases, pues podria ser como ejemplo este propio contexto
+-  Video grabado
+-  Un docente graba una lección sobre matemáticas y la publica en la plataforma educativa. Los estudiantes observan el video, pero no pueden hacer preguntas en el momento.
+
+Emisor: Docente
+Mensaje: Explicación de matemáticas
+Canal: Video en la plataforma virtual
+Receptor: Estudiantes
 
 ### 🔄 Modelo Interactivo
 - **Representación en clases virtuales:**  
